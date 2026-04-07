@@ -11,7 +11,7 @@ slug: /sample-link-if-you-want-a-specific-url-for-this-publication
 
 text goes here
 
-<!-- truncate -->
+{/* truncate */}
 
 ^ anything below this line will not be shown in the main index page
 
