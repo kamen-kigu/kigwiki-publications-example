@@ -5,6 +5,7 @@ tags:
 description: "Sample publication description."
 authors: sample-author
 slug: /sample-link-if-you-want-a-specific-url-for-this-publication
+canonical_url: https://kig.wiki/publications/sample-link-if-you-want-a-specific-url-for-this-publication
 ---
 
 # Title
